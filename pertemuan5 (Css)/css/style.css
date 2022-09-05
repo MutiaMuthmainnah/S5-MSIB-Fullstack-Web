@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+}
+p{
+    text-align: justify;
+    font-family: calibri, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+h1{
+    text-align: center;
+}
+hr{
+    border-color: grey;
+    border-width: 2px;
+    border-style: double;
+}
+font{
+    font-size: 25pt;
+    color:cadetblue; 
+}
+fieldset, legend{
+    border:grey double 2px;
+}
+ol{
+    list-style-image: url(../img/musik.gif);
+}
+ul{
+    list-style-image: url(../img/nyanyi.gif);
+}
